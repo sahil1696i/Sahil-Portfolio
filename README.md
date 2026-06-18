@@ -7,10 +7,7 @@ A clean and responsive personal portfolio showcasing my skills, projects, and ex
 - Contact and social links  
 
 ## 🛠 Tech Stack
-HTML • CSS • JavaScript (customize as needed)
-
-## 📦 Setup
-Clone the repo and open `index.html` in your browser.
+HTML • CSS • JavaScript
 
 ## 📫 Contact
 Feel free to connect via LinkedIn or email.
